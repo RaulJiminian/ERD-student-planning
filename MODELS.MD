@@ -278,7 +278,7 @@ A couple quick implementation notes (so this doesn’t bite you later):
 * `Workout.plan` + `Workout.template` are **nullable** to support one-off workouts and custom workouts not generated from templates.
 * `WorkoutTemplatePlan` is your renamed through table and has optional fields (`day_of_week`, `week_index`) to support simple weekly schedules *or* rotating programs.
 
-If you want, I can also draft:
+Next steps:
 
 * serializers for nested `Workout` + `WorkoutItem`
 * a service function to “generate next 8 weeks” of `Workout` instances from a `WorkoutPlan` and clone template items into workout items
