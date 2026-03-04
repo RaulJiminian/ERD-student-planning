@@ -1,6 +1,4 @@
-Yes — you’re understanding the architecture correctly. The key idea is **templates/plans define structure**, while **workouts are the actual calendar instances** you perform/log.
-
-Let’s walk through the lifecycle clearly.
+The key idea is **templates/plans define structure**, while **workouts are the actual calendar instances** you perform/log.
 
 ---
 
