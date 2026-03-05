@@ -1,4 +1,3 @@
-````markdown
 # Workout App (Django + DRF + React) — Master API + Frontend Flow (README)
 
 This document is the single source of truth for:
